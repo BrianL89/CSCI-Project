@@ -1,4 +1,4 @@
-Scrabble Tile Game
+## Scrabble Tile Game
 
 This Java project implements a tile-based word game inspired by Scrabble.
 
