@@ -1,4 +1,4 @@
-Recursive Cipher Decoder
+## Recursive Cipher Decoder
 
 This Java project implements a recursive algorithm to detect and extract words
 embedded inside a cipher text.
